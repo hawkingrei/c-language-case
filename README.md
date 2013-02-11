@@ -65,3 +65,5 @@ c-language-case
 5-6.c 如上再添加插入链表
 
 5-7.c 动态链表创建，删除，以及遍历
+
+5-8.c 有10个颜色的球，颜色分别是white,black,blue,pink,yellow,green,orange,red，从中拿出三个球，把所有拿法打印出来

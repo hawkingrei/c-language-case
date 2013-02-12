@@ -40,4 +40,4 @@
 5-8.c 有10个颜色的球，颜色分别是white,black,blue,pink,yellow,green,orange,red，从中拿出三个球，把所有拿法打印出来
 
 6-1.c 判断奇偶数
-
+6-2.c 素数问题
